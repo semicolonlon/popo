@@ -5,6 +5,7 @@ project "popo" will be make the history.
 異次元の速度で描画される現実世界をお楽しみください。
 
 <strong>必ず有線コントローラを接続して実行してください</strong>
+<strong>そして'PointCloud/PointCloud.h'のPATHにロードしたい点郡ファイルの絶対パスを絶対記述してください</strong>
 # 環境構築
 ここではWindows環境での実行を前提としています。
 ## Qt 6.2.4以上をインストールする
