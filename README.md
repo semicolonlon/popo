@@ -1,8 +1,11 @@
 # popo
 project "popo" will be make the history.
 
-ここではWindows環境での実行を前提としています。
+"ぽぽ"は「メモリを犠牲に、早く、美しく」をメインテーマに制作されました。
+異次元の速度で描画される現実世界をお楽しみください。
+
 # 環境構築
+ここではWindows環境での実行を前提としています。
 ## Qt 6.2.4以上をインストールする
 https://www.qt.io/download-dev
 ## CMahe GUIをインストールする
@@ -80,8 +83,3 @@ powershell -command "[Environment]::SetEnvironmentVariable('OPENNI2_INCLUDE64', 
 powershell -command "[Environment]::SetEnvironmentVariable('OPENNI2_LIB64', 'C:\Program Files\OpenNI2\Lib\', 'Machine')"
 powershell -command "[Environment]::SetEnvironmentVariable('OPENNI2_REDIST64', 'C:\Program Files\OpenNI2\Redist\', 'Machine')"
 ```
-
-データの取集に使用できそうなサイト
->https://drive.google.com/drive/folders/1xd6oc0yJFQ74r54zVJCTGypohvv7ajXG
-
-🄫Semicolonlon
